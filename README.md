@@ -71,6 +71,14 @@ Small games that are well put together where you could still end up getting hour
 	* Top-down multiplayer game with melee
 	* HTML, CSS, JavaScript, Canvas
 
+- [Trick or Take](https://trickortake.com/)
+	* Fast-paced multiplayer Halloween candy heist game (solo or 2-6 players with optional live voice chat)
+	* Pure vanilla Canvas 2D engine (<45KB bundle size, 60 FPS, sub-50ms cold start)
+	* Procedural Web Audio API sound synthesis with zero external audio asset latency
+	* HTML, CSS, JavaScript, Canvas, Cloudflare Workers & D1, Agora RTC
+	* Open source on [GitHub](https://github.com/zicojiao/trick-or-take) (MIT)
+
+
 
 ## Mini
 
